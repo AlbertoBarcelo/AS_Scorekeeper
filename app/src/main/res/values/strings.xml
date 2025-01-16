@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AS_Scorekeeper</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="plus_button">Increase Score Button</string>
+    <string name="minus_button">Decrease Score Button</string>
+</resources>
